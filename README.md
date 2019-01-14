@@ -1,124 +1,122 @@
-### BAT面试题答案正在持续更新...
+初学者友好的算法题目解答
+---
 
+算法解答部分的代码注释细致到每一行  
 
-> 专对BAT等大厂面试
+希望能为初学者提供最大的便利去理解每道题目和解法  
 
+欢迎网友为本项目做贡献，提交你的解题方法和详细解释  
 
+---  
+
+提交答案步骤  
+---
+
+>各位Hollis的朋友们，在向本项目提交您的答案详解时，请阅读以下内容  
+
+<br>
+
+**0. 从题目列表或者leetCode题库选择题目**  
+
+1) 从本项目的题目列表中选择，每日更新，来自leetCode免费公开题库  
+
+[https://github.com/hollischuang/Interview/blob/master/algorithm/daily.md](https://github.com/hollischuang/Interview/blob/master/algorithm/daily.md)  
+
+2) 或者直接从leetCode免费题库中自行选择  
+
+[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)  
+
+<br>  
+
+**1. 为运行成功的代码写出详细注释**  
+
+* 可以提交一个精简版的答案，仅包括代码和详细注释
+
+```  
+精简版答案包括：
+
+1) 能够在leetCode上成功提交的代码  
+
+2) 代码详细注释  
+
+3) 参考或引用的链接
+
+```  
+
+![精简版答案示例](https://raw.githubusercontent.com/hollischuang/Interview/master/algorithm/leetcode/sample/concise.png)  
+
+>*精简版答案示例下载地址：*  
+
+>[https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/concise.md](https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/concise.md)  
+
+<br>  
+
+* 或者提交一个详尽版的答案，参照leetCode官方题解样式
+
+```  
+详尽版答案包括：
+
+1) 能够在leetCode上成功提交的代码  
+
+2) 代码详细注释  
+
+3) 复杂度分析：包括时间复杂度和空间复杂度  
+
+4) 方法和思路概述
+
+5) 参考或引用的链接
+
+```  
+
+![详尽版答案示例](https://raw.githubusercontent.com/hollischuang/Interview/master/algorithm/leetcode/sample/full.png)  
+
+>*详尽版示例下载地址：*  
+
+>[https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/full.md](https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/full.md)  
+
+* 引用和参考：  
+
+```  
+
+不强制原创，如果提交的答案有借鉴、转载、翻译，
+
+请务必注明引用出处  
+```  
+
+<br>  
+
+**2. 找到题目所在目录，新建md文件并提交，命名规则 "英文或拼音昵称.md"**  
+
+1) 在/Interview/algorithm/leetcode/文件夹下找到题目文件夹，如  
+
+```  
+/Interview/algorithm/leetcode/141-LinkedListCycle
+
+如果项目里还没有该题的文件夹，请按照驼峰式命名法新建"题号-题目名称.md"，题号小于百位数请加0  
+
+比如题号是24的swap-nodes-in-pairs，命名后如下
+
+/Interview/algorithm/leetcode/024-SwapNodesInPairs
+```  
+
+2) 文件名请务必使用英文或拼音：  
+
+```  
+比如你的昵称叫offical, 文件就命名为 official.md  
+```  
+
+3) 建好后完整路径和名称如下所示：  
+
+```  
+/Interview/algorithm/leetcode/141-LinkedListCycle/offical.md  
+```  
+ 
+4) 在git上提交你的文件，管理员审核通过后大家就能看到你的答案并和你讨论了  
 
 ---
 
-### 算法题目详细解答  
+**参考资料**  
 
-- [leetCode题目答案](https://github.com/hollischuang/Interview/tree/master/algorithm/leetcode)
+1) [leetCode中文题库](https://leetcode-cn.com/problemset/all/)  
 
-### 计算机基础知识
-
-- [数据结构](https://github.com/hollischuang/Interview/blob/master/contents/CLanguageBase/ConstructorAndDestructor.md)
-- [算法](https://github.com/hollischuang/Interview/blob/master/contents/ComputerBasicKnowledge/Algorithm.md)
-- [操作系统](https://github.com/hollischuang/Interview/blob/master/contents/ComputerBasicKnowledge/OperatingSystem.md)
-- [计算机网络](https://github.com/hollischuang/Interview/blob/master/contents/ComputerBasicKnowledge/ComputerNetworking.md)
-- [数据库](https://github.com/hollischuang/Interview/blob/master/contents/ComputerBasicKnowledge/Database.md)
-- [海量数据处理](https://github.com/hollischuang/Interview/blob/master/contents/ComputerBasicKnowledge/BigdateProcessing.md)
-
----
-
-### C语言基础
-
-- [构造函数、析构函数](https://github.com/hollischuang/Interview/blob/master/contents/CLanguageBase/ConstructorAndDestructor.md)
-- [C++相关](https://github.com/hollischuang/Interview/blob/master/contents/CLanguageBase/CPlusPlusRelated.md)
-- [其他](https://github.com/hollischuang/Interview/blob/master/contents/CLanguageBase/Other.md)
-
-
-
----
-
-### Java基础
-
-- [抽象、封装、继承、多态](https://github.com/hollischuang/Interview/blob/master/contents/JavaBase/OOPFutures.md)
-- [集合相关](https://github.com/hollischuang/Interview/blob/master/contents/JavaBase/Collections.md)
-- [异常相关](https://github.com/hollischuang/Interview/blob/master/contents/JavaBase/Exceptions.md)
-- [其它](https://github.com/hollischuang/Interview/blob/master/contents/JavaBase/Other.md)
-
-
-
----
-### Java高级
-
-- [多线程](https://github.com/hollischuang/Interview/blob/master/contents/JavaSenior/MultiThreads.md)
-- [JVM底层技术](https://github.com/hollischuang/Interview/blob/master/contents/JavaSenior/JVMUnderlyingTechnology.md)
-- [I/O](https://github.com/hollischuang/Interview/blob/master/contents/JavaSenior/IO.md)
-- [其它](https://github.com/hollischuang/Interview/blob/master/contents/JavaSenior/Other.md)
-
-
-
----
-### JavaWeb
-
-- [Servlet](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/Servlet.md)
-- [MVC框架](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/MVCFramework.md)
-- [Http相关](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/Http.md)
-- [SSM相关](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/SSM.md)
-- [Web安全](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/WebSecurity.md)
-- [动态代理](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/DynamicProxy.md)
-- [编码问题](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/CodingProblem.md)
-- [其它](https://github.com/hollischuang/Interview/blob/master/contents/JavaWeb/Others.md)
-
-
-
----
-### UML类图与设计模式
-
-- [UML类图](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/UMLClassDiagram.md)
-
-- 创建型模式
-
-  - [！工厂模式（Factory Pattern）](https://github.com/hollischuang/Interview/tree/master/contents/UMLClassDiagramAndDesignPattern/CreationPattern/)
-  - [！抽象工厂模式（Abstract Factory Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/CreationPattern/AbstractFactoryPattern.md)
-  - [！单例模式（Singleton Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/CreationPattern/SingletonPattern.md)
-  - [建造者模式（Builder Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/CreationPattern/BuilderPattern.md)
-  - [原型模式（Prototype Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/CreationPattern/PrototypePattern.md)
-
-  > 参考资料
-
-- 结构型模式
-
-  - [！适配器模式（Adapter Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/AdapterPattern.md)
-  - [桥接模式（Bridge Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/BridgePattern.md)
-  - [过滤器模式（Filter、Criteria Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/FilterCriteriaPattern.md)
-  - [组合模式（Composite Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/CompositePattern.md)
-  - [！装饰器模式（Decorator Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/DecoratorPattern.md)
-  - [外观模式（Facade Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/FacadePattern.md)
-  - [享元模式（Flyweight Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/FlyweightPattern.md)
-  - [！代理模式（Proxy Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/StructuralPattern/ProxyPattern.md)
-
-  > 参考资料
-
-- 行为型模式
-
-  - [命令模式（Command Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/CommandPattern.md)
-  - [解释器模式（Interpreter Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/InterpreterPattern.md)
-  - [迭代器模式（Iterator Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/IteratorPattern.md)
-  - [中介者模式（Mediator Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/MediatorPattern.md)
-  - [备忘录模式（Memento Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/MementoPattern.md)
-  - [！观察者模式（Observer Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/ObserverPattern.md)
-  - [状态模式（State Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/StatePattern.md)
-  - [空对象模式（Null Object Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/NullObjectPattern.md)
-  - [！策略模式（Strategy Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/StrategyPattern.md)
-  - [！模板模式（Template Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/TemplatePattern.md)
-  - [访问者模式（Visitor Pattern）](https://github.com/hollischuang/Interview/blob/master/contents/UMLClassDiagramAndDesignPattern/BehavioralPattern/VisitorPattern.md)
-
-  > 参考资料
-
----
-
-
-
-### 联系作者
-
-> Hollis：hollischuang@qq.com
->
-> Kevin：AboutCloud@163.com
->
-> hueizhe：well_coder@qq.com
-
----
+2) [覃超《算法面试通关40讲》课件](https://github.com/geektime-geekbang/algorithm-1)  
