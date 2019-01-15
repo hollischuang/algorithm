@@ -20,7 +20,7 @@
 
 1) 从本项目的题目列表中选择，每日更新，来自leetCode免费公开题库  
 
-[https://github.com/hollischuang/Interview/blob/master/algorithm/daily.md](https://github.com/hollischuang/Interview/blob/master/algorithm/daily.md)  
+[https://github.com/hollischuang/algorithm/blob/master/daily.md](https://github.com/hollischuang/algorithm/blob/master/daily.md)  
 
 2) 或者直接从leetCode免费题库中自行选择  
 
@@ -47,7 +47,7 @@
 
 >*精简版答案示例下载地址：*  
 
->[https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/concise.md](https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/concise.md)  
+>[https://github.com/hollischuang/algorithm/blob/master/leetcode/sample/concise.md](https://github.com/hollischuang/algorithm/blob/master/leetcode/sample/concise.md)  
 
 <br>  
 
@@ -72,7 +72,7 @@
 
 >*详尽版示例下载地址：*  
 
->[https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/full.md](https://github.com/hollischuang/Interview/blob/master/algorithm/leetcode/sample/full.md)  
+>[https://github.com/hollischuang/algorithm/blob/master/leetcode/sample/full.md](https://github.com/hollischuang/algorithm/blob/master/leetcode/sample/full.md)  
 
 * 引用和参考：  
 
