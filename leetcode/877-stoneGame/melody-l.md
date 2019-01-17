@@ -15,6 +15,7 @@ class Solution {
 ```  
 
 方法二：动态规划
+
 从动态规划的角度看问题。  
 设stone[i][j]表示从石子堆第i堆到石子堆第j堆，最终亚力克斯比李多出的石子数。由于只能取piles[i]或者piles[j]，所以有如下两种情况：
 1. 若此时轮到亚力克斯取石子，则此时stone[i][j] = Max{piles[i]+stone[i+1][j], piles[j]+stone[i][j-1]}
