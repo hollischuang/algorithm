@@ -7,7 +7,7 @@
 思路1: 我们通过动态规划(dp)的方式来解决这种问题，动态规划的问题多数有重叠子问题这个特点，为减少计算，对每一个字问题，只解一次，将不同阶段的不同状态保存在一个二位数组中。
 
 ```
- public int minSteps(int n) {
+ public int findLength(int n) {
         int aLength = A.length;
         int bLength = B.length;
         //定义一个二维数组,如果dp[i][j]，则A数组中的第i个取值和B中的第j个值一定相等
