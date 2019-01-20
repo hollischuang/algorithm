@@ -8,7 +8,7 @@
 思路1: 将n分解为m个数字的乘积并且m个数字的和最小，即把一个数分解为n个质数的和
 
 ```
-public static   int minStep(int n){
+public int minStep(int n){
         int result = 0;
         int d = 2;
         while (n >1){
