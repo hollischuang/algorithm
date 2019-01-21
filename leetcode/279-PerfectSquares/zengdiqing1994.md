@@ -1,4 +1,4 @@
-279. 完全平方数
+https://leetcode-cn.com/problems/perfect-squares/
 
 给定正整数 n，找到若干个完全平方数（比如 1, 4, 9, 16, ...）使得它们的和等于 n。你需要让组成和的完全平方数的个数最少。
 
@@ -53,3 +53,5 @@ class Solution:
         return dp[n]
 ```
 这个时候时间复杂度是O(NlogN)，时间大大减少
+
+参考：https://www.codetd.com/article/2640989
