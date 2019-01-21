@@ -1,4 +1,6 @@
-##最长回文字符串
+##516. 最长回文子序列
+
+LeetCode 地址 [https://leetcode-cn.com/problems/longest-palindromic-subsequence/](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 
 **解法一 暴力求解:**
 
@@ -7,14 +9,14 @@
 这样的方式很容易造成超时，比较不可取。
 
 
-**动态规划**
+**解法二 动态规划**
 
 回文字符串的子串也是回文，比如P[i,j]（表示以i开始以j结束的子串）是回文字符串，那么dp[i+1,j-1]也是回文字符串。这样最长回文子串就能分解成一系列子问题了。
 
 核心思路就是从左开始遍历，然后不断的从原字符串中拿出1到length-1长度的字串，进行判断
 这里用一个二维数组来表示回文字符串的起始位置和结束位置
 
-时间复杂度O(n^2)
+时间复杂度 O(n^2)
 
 ```
 public static int longestPalindromeSubseq(String s) {
