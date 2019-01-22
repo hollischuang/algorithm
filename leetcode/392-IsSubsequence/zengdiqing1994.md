@@ -1,5 +1,7 @@
 ##### 392. 判断子序列
 
+https://leetcode-cn.com/problems/is-subsequence/
+
 给定字符串 s 和 t ，判断 s 是否为 t 的子序列。
 
 你可以认为 s 和 t 中仅包含英文小写字母。字符串 t 可能会很长（长度 ~= 500,000），而 s 是个短字符串（长度 <=100）。
@@ -84,3 +86,5 @@ class Solution:
         return True
 ```
 这里时间复杂度稍微低一些，为O(t*logs)
+
+参考：https://blog.csdn.net/fuxuemingzhu/article/details/79568772
