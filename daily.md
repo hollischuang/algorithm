@@ -24,7 +24,7 @@
 
 [https://leetcode-cn.com/problems/reverse-linked-list/](https://leetcode-cn.com/problems/reverse-linked-list/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
   
 [https://leetcode.com/articles/reverse-linked-list/](https://leetcode.com/articles/reverse-linked-list/)  
 
@@ -120,7 +120,7 @@
 
 [https://leetcode-cn.com/problems/implement-queue-using-stacks/](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/implement-queue-using-stacks/](https://leetcode.com/articles/implement-queue-using-stacks/)  
 
@@ -136,7 +136,7 @@
 
 [https://leetcode-cn.com/problems/implement-stack-using-queues/](https://leetcode-cn.com/problems/implement-stack-using-queues/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/implement-stack-using-queues/](https://leetcode.com/articles/implement-stack-using-queues/)  
 
@@ -152,7 +152,7 @@
 
 [https://leetcode-cn.com/problems/backspace-string-compare/](https://leetcode-cn.com/problems/backspace-string-compare/)
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/backspace-string-compare/](https://leetcode.com/articles/backspace-string-compare/)  
 
@@ -184,7 +184,7 @@
 
 [https://leetcode-cn.com/problems/top-k-frequent-words/](https://leetcode-cn.com/problems/top-k-frequent-words/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/top-k-frequent-words/](https://leetcode.com/articles/top-k-frequent-words/)  
 
@@ -216,7 +216,7 @@
 
 [https://leetcode-cn.com/problems/valid-anagram/](https://leetcode-cn.com/problems/valid-anagram/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/valid-anagram/](https://leetcode.com/articles/valid-anagram/)  
 
@@ -284,7 +284,7 @@
 
 [https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)  
 
@@ -320,7 +320,7 @@
 
 [https://leetcode-cn.com/problems/majority-element/](https://leetcode-cn.com/problems/majority-element/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/majority-element/](https://leetcode.com/articles/majority-element/)  
 
@@ -408,7 +408,7 @@
 
 [https://leetcode-cn.com/problems/walking-robot-simulation/](https://leetcode-cn.com/problems/walking-robot-simulation/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/problems/walking-robot-simulation/solution/](https://leetcode.com/problems/walking-robot-simulation/solution/)  
 
@@ -548,7 +548,7 @@
 
 [https://leetcode-cn.com/problems/implement-trie-prefix-tree/](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/implement-trie-prefix-tree/](https://leetcode.com/articles/implement-trie-prefix-tree/)  
 
@@ -580,7 +580,7 @@
 
 [https://leetcode-cn.com/problems/number-of-1-bits/](https://leetcode-cn.com/problems/number-of-1-bits/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/number-1-bits/](https://leetcode.com/articles/number-1-bits/)  
 
@@ -648,7 +648,7 @@
 
 [https://leetcode-cn.com/problems/climbing-stairs/](https://leetcode-cn.com/problems/climbing-stairs/)  
 
-官方题解(本题只有英文官方题解)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/climbing-stairs/](https://leetcode.com/articles/climbing-stairs/)  
 
@@ -772,7 +772,7 @@
 
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)  
 
@@ -788,7 +788,7 @@
 
 [https://leetcode-cn.com/problems/longest-increasing-subsequence/](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/longest-increasing-subsequence/](https://leetcode.com/articles/longest-increasing-subsequence/)  
 
@@ -804,7 +804,7 @@
 
 [https://leetcode-cn.com/problems/coin-change/](https://leetcode-cn.com/problems/coin-change/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/coin-change/](https://leetcode.com/articles/coin-change/)  
 
@@ -820,7 +820,7 @@
 
 [https://leetcode-cn.com/problems/edit-distance/](https://leetcode-cn.com/problems/edit-distance/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/edit-distance/](https://leetcode.com/articles/edit-distance/)  
 
@@ -896,7 +896,7 @@
 
 [https://leetcode-cn.com/problems/range-sum-query-immutable/](https://leetcode-cn.com/problems/range-sum-query-immutable/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/range-sum-query-immutable/](https://leetcode.com/articles/range-sum-query-immutable/)  
 
@@ -912,7 +912,7 @@
 
 [https://leetcode-cn.com/problems/min-cost-climbing-stairs/](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/min-cost-climbing-stairs/](https://leetcode.com/articles/min-cost-climbing-stairs/)  
 
@@ -976,7 +976,7 @@
 
 [https://leetcode-cn.com/problems/unique-binary-search-trees/](https://leetcode-cn.com/problems/unique-binary-search-trees/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/unique-binary-search-trees/](https://leetcode.com/articles/unique-binary-search-trees/)  
 
@@ -992,7 +992,7 @@
 
 [https://leetcode-cn.com/problems/arithmetic-slices/](https://leetcode-cn.com/problems/arithmetic-slices/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/arithmetic-slices/](https://leetcode.com/articles/arithmetic-slices/)  
 
@@ -1008,7 +1008,7 @@
 
 [https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)  
 
@@ -1044,7 +1044,7 @@
 
 [https://leetcode-cn.com/problems/shopping-offers/](https://leetcode-cn.com/problems/shopping-offers/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/shopping-offers/](https://leetcode.com/articles/shopping-offers/)  
 
@@ -1060,7 +1060,7 @@
 
 [https://leetcode-cn.com/problems/palindromic-substrings/](https://leetcode-cn.com/problems/palindromic-substrings/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/palindromic-substrings/](https://leetcode.com/articles/palindromic-substrings/)  
 
@@ -1076,7 +1076,7 @@
 
 [https://leetcode-cn.com/problems/minimum-falling-path-sum/](https://leetcode-cn.com/problems/minimum-falling-path-sum/)  
 
-官方题解(只有英文)：  
+英文官方题解：  
 
 [https://leetcode.com/articles/minimum-path-falling-sum/](https://leetcode.com/articles/minimum-path-falling-sum/)  
 
@@ -1086,7 +1086,7 @@
 
 ---  
 
-2019年01月28日  
+2019年01月29日  
 
 [343. 整数拆分](https://github.com/hollischuang/algorithm/tree/master/leetcode/343-IntegerBreak)  
 
@@ -1102,15 +1102,591 @@
 
 ---  
 
-2019年01月28日  
+2019年01月30日  
 
 [95. 不同的二叉搜索树 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
 
 [https://leetcode-cn.com/problems/unique-binary-search-trees-ii/](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  
 
+英文官方题解：  
+
+[https://leetcode.com/articles/unique-binary-search-trees-ii/](https://leetcode.com/articles/unique-binary-search-trees-ii/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年01月31日  
+
+[740. 删除与获得点数](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/delete-and-earn/](https://leetcode-cn.com/problems/delete-and-earn/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/delete-and-earn/](https://leetcode.com/articles/delete-and-earn/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月01日  
+
+[646. 最长数对链](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/maximum-length-of-pair-chain/](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/maximum-length-of-pair-chain/](https://leetcode.com/articles/maximum-length-of-pair-chain/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月02日  
+
+[764. 最大加号标志](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/largest-plus-sign/](https://leetcode-cn.com/problems/largest-plus-sign/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/largest-plus-sign/](https://leetcode.com/articles/largest-plus-sign/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月03日  
+
+[279. 完全平方数](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/perfect-squares/](https://leetcode-cn.com/problems/perfect-squares/)  
+
 无官方题解，网友高票Java答案：  
 
-[https://leetcode.com/problems/integer-break/discuss/80689/A-simple-explanation-of-the-math-part-and-a-O(n)-solution](https://leetcode.com/problems/integer-break/discuss/80689/A-simple-explanation-of-the-math-part-and-a-O(n)-solution)  
+[https://leetcode.com/problems/perfect-squares/discuss/71495/An-easy-understanding-DP-solution-in-Java](https://leetcode.com/problems/perfect-squares/discuss/71495/An-easy-understanding-DP-solution-in-Java)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月04日  
+
+[392. 判断子序列](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/is-subsequence/](https://leetcode-cn.com/problems/is-subsequence/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月05日  
+
+[377. 组合总和 Ⅳ](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/combination-sum-iv/](https://leetcode-cn.com/problems/combination-sum-iv/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/combination-sum-iv/discuss/85036/1ms-Java-DP-Solution-with-Detailed-Explanation](https://leetcode.com/problems/combination-sum-iv/discuss/85036/1ms-Java-DP-Solution-with-Detailed-Explanation)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月06日  
+
+[486. 预测赢家](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/predict-the-winner/](https://leetcode-cn.com/problems/predict-the-winner/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/predict-the-winner/](https://leetcode.com/articles/predict-the-winner/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月07日  
+
+[357. 计算各个位数不同的数字个数](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/count-numbers-with-unique-digits/](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/count-numbers-with-unique-digits/discuss/83041/JAVA-DP-O(1)-solution.](https://leetcode.com/problems/count-numbers-with-unique-digits/discuss/83041/JAVA-DP-O(1)-solution.)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月08日  
+
+[494. 目标和](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/target-sum/](https://leetcode-cn.com/problems/target-sum/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/target-sum/](https://leetcode.com/articles/target-sum/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月09日  
+
+[516. 最长回文子序列](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/longest-palindromic-subsequence/](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99101/Straight-forward-Java-DP-solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99101/Straight-forward-Java-DP-solution)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月10日  
+
+[688. “马”在棋盘上的概率](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/knight-probability-in-chessboard/](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/knight-probability-in-chessboard/](https://leetcode.com/articles/knight-probability-in-chessboard/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月11日  
+
+[718. 最长重复子数组](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/maximum-length-of-repeated-subarray/](https://leetcode.com/articles/maximum-length-of-repeated-subarray/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月12日  
+
+[650. 只有两个键的键盘](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/2-keys-keyboard/](https://leetcode-cn.com/problems/2-keys-keyboard/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/2-keys-keyboard/](https://leetcode.com/articles/2-keys-keyboard/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月13日  
+
+[873. 最长的斐波那契子序列的长度](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)  
+
+官方题解：  
+
+[https://leetcode-cn.com/articles/length-of-longest-fibonacci-subsequence/](https://leetcode-cn.com/articles/length-of-longest-fibonacci-subsequence/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月14日  
+
+[139. 单词拆分](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/word-break/](https://leetcode-cn.com/problems/word-break/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/word-break/discuss/43790/Java-implementation-using-DP-in-two-ways](https://leetcode.com/problems/word-break/discuss/43790/Java-implementation-using-DP-in-two-ways)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月15日  
+
+[264. 丑数 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/ugly-number-ii/](https://leetcode-cn.com/problems/ugly-number-ii/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/ugly-number-ii/discuss/69362/O(n)-Java-solution](https://leetcode.com/problems/ugly-number-ii/discuss/69362/O(n)-Java-solution)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月16日  
+
+[416. 分割等和子集](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/partition-equal-subset-sum/](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation](https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/partition-equal-subset-sum/discuss/90627/Java-Solution-similar-to-backpack-problem-Easy-to-understand](https://leetcode.com/problems/partition-equal-subset-sum/discuss/90627/Java-Solution-similar-to-backpack-problem-Easy-to-understand)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月17日  
+
+[304. 二维区域和检索 - 矩阵不可变](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/range-sum-query-2d-immutable/](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)  
+
+英文无官方题解：  
+
+[https://leetcode.com/articles/range-sum-query-2d-immutable/](https://leetcode.com/articles/range-sum-query-2d-immutable/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月18日  
+
+[221. 最大正方形](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/maximal-square/](https://leetcode-cn.com/problems/maximal-square/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/maximal-square/](https://leetcode.com/articles/maximal-square/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月19日  
+
+[698. 划分为k个相等的子集](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/partition-to-k-equal-sum-subsets/](https://leetcode.com/articles/partition-to-k-equal-sum-subsets/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月20日  
+
+[474. 一和零](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/ones-and-zeroes/](https://leetcode-cn.com/problems/ones-and-zeroes/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/ones-and-zeroes/discuss/95807/0-1-knapsack-detailed-explanation.](https://leetcode.com/problems/ones-and-zeroes/discuss/95807/0-1-knapsack-detailed-explanation.)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/ones-and-zeroes/discuss/95811/Java-Iterative-DP-Solution-O(mn)-Space](https://leetcode.com/problems/ones-and-zeroes/discuss/95811/Java-Iterative-DP-Solution-O(mn)-Space)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月21日  
+
+[838. 推多米诺](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/push-dominoes/](https://leetcode-cn.com/problems/push-dominoes/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/articles/push-dominoes/](https://leetcode.com/articles/push-dominoes/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月22日  
+
+[790. 多米诺和托米诺平铺](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/domino-and-tromino-tiling/](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3](https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月23日  
+
+[813. 最大平均值和的分组](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/largest-sum-of-averages/](https://leetcode-cn.com/problems/largest-sum-of-averages/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/largest-sum-of-averages/](https://leetcode.com/articles/largest-sum-of-averages/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月24日  
+
+[376. 摆动序列变](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/wiggle-subsequence/](https://leetcode-cn.com/problems/wiggle-subsequence/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/wiggle-subsequence/](https://leetcode.com/articles/wiggle-subsequence/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月25日  
+
+[801. 使序列递增的最小交换次数](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月26日  
+
+[808. 分汤](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/soup-servings/](https://leetcode-cn.com/problems/soup-servings/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/soup-servings/](https://leetcode.com/articles/soup-servings/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月27日  
+
+[63. 不同路径 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/unique-paths-ii/](https://leetcode-cn.com/problems/unique-paths-ii/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/unique-paths-ii/](https://leetcode.com/articles/unique-paths-ii/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年02月28日  
+
+[213. 打家劫舍 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/house-robber-ii/](https://leetcode-cn.com/problems/house-robber-ii/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/house-robber-ii/discuss/59934/Simple-AC-solution-in-Java-in-O(n)-with-explanation](https://leetcode.com/problems/house-robber-ii/discuss/59934/Simple-AC-solution-in-Java-in-O(n)-with-explanation)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月01日  
+
+[368. 最大整除子集](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/largest-divisible-subset/](https://leetcode-cn.com/problems/largest-divisible-subset/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/largest-divisible-subset/discuss/84006/Classic-DP-solution-similar-to-LIS-O(n2)](https://leetcode.com/problems/largest-divisible-subset/discuss/84006/Classic-DP-solution-similar-to-LIS-O(n2))  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月02日  
+
+[467. 环绕字符串中唯一的子字符串](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/95439/Concise-Java-solution-using-DP](https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/95439/Concise-Java-solution-using-DP)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月03日  
+
+[464. 我能赢吗](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/can-i-win/](https://leetcode-cn.com/problems/can-i-win/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/can-i-win/discuss/95277/Java-solution-using-HashMap-with-detailed-explanation](https://leetcode.com/problems/can-i-win/discuss/95277/Java-solution-using-HashMap-with-detailed-explanation)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/can-i-win/discuss/95293/Java-easy-strightforward-solution-with-explanation](https://leetcode.com/problems/can-i-win/discuss/95293/Java-easy-strightforward-solution-with-explanation)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月04日  
+
+[935. 骑士拨号器](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/knight-dialer/](https://leetcode-cn.com/problems/knight-dialer/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/knight-dialer/](https://leetcode.com/articles/knight-dialer/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月05日  
+
+[787. K 站中转内最便宜的航班](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115541/JavaPython-Priority-Queue-Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115541/JavaPython-Priority-Queue-Solution)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/128776/5-ms-AC-Java-Solution-based-on-Dijkstra's-Algorithm](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/128776/5-ms-AC-Java-Solution-based-on-Dijkstra's-Algorithm)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月06日  
+
+[576. 出界的路径数](https://github.com/hollischuang/algorithm/tree/master/leetcode/095-UniqueBinarySearchTreesII)  
+
+[https://leetcode-cn.com/problems/out-of-boundary-paths/](https://leetcode-cn.com/problems/out-of-boundary-paths/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/out-of-boundary-paths/](https://leetcode.com/articles/out-of-boundary-paths/)  
 
 知识点：动态规划  
 
