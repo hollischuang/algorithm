@@ -1,6 +1,6 @@
-**718. 最长重复子数组**  
+**647. 回文子串**  
 ---
-[https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)  
+[https://leetcode-cn.com/problems/palindromic-substrings/](https://leetcode-cn.com/problems/palindromic-substrings/)  
 
 * 英文官方题解1：Expand Around Center  
 
