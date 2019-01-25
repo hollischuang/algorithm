@@ -2,14 +2,15 @@
 ---
 [https://leetcode-cn.com/problems/delete-and-earn/](https://leetcode-cn.com/problems/delete-and-earn/)  
 
+
 方法一：动态规划  
-我们在这个地方将相同的值重复多个的序列称为`值序列`，用a表示。使用A表示多个值序列组成的集合。使用a(num, size)表示该值序列的求和值，即a(num, size)=num*size。  
+我们将`使用一个单一的值重复多次的一个序列`称为`值序列`，用a表示。使用A表示`多个值序列组成的集合`。使用a(num, size)表示`值序列的求和值`，即a(num, size)=num*size。  
 
-原问题如果从增加的角度考虑的话，则问题转为：已知一个值序列组成的集合{a1, a2, a3, ... , an}，求哪些`值序列`元素值组合相加结果最大，其中值num相邻的`值序列`是不允许相加的。  
+原问题如果从增加的角度考虑的话，则问题转为：已知一个`值序列`组成的集合`{a1, a2, a3, ... , an}`，求哪些`值序列的求和值`组合相加结果最大，要求在`值序列`组合中，值num不允许相邻。  
 
-根据新的问题，假设存在已知的值序列集合A，其符合题意的相加结果最大值为`firstMax`，第二大值为`secondMax`，则当在该值序列集合后插入一个比之前的值都大的值序列b，则插入之后所组成的新的值序列集合B所最大值分布有两种情况：  
-* 若`firstMax`所对应的组合的最大num为`i-1`，由于题目要求相邻值序列不可相加，因此B的`firstMax`为Max{`A.firstMax`, `A.secondeMax+i*size`}；
-* 若`fistMax`所对应的组合的最大num不为`i-1`，则B的`firstMax`为`A.firstMax+i*size`；
+根据新的问题，假设存在已知的值序列集合A，其符合题意的结果最大值为`firstMax`，第二大值为`secondMax`，则当在该值序列集合后插入一个比之前的值都大的值序列b，则插入之后所组成的新的值序列集合B所最大值分布有两种情况：  
+* 若`firstMax`所对应的组合的最大num为`i-1`，由于题目要求相邻值序列不可相加，因此B的`firstMax`为Max{`A.firstMax`, `A.secondeMax+b.i*b.size`}；
+* 若`fistMax`所对应的组合的最大num不为`i-1`，则B的`firstMax`为`A.firstMax+b.i*b.size`；
 
 因此由上分析可知，对于不断增加的值序列集合X，我们需要记录firstMax，secondMax，最大num所在的index。
 

@@ -2,16 +2,16 @@
 ---
 [https://leetcode-cn.com/problems/unique-binary-search-trees-ii/](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  
 
-方法一：动态规划+递推  
+方法一：动态规划+递归  
 对于二叉搜索树，其左子树中的所有节点的值都小于根节点，右子树的所有节点的值都大于根节点。因此，该问题可以转为  
 * 对于从1到n的序列A={1...n}，求以i为根节点的所有二叉搜索树集合（其中，i>=1 且 i<=n）。  
 
-设以i为根节点的所有二叉树集合为F(i)，很显然，F(i)的结果为{1...i-1}的可能BTS集合和{i+1...n}的可能BTS集合的笛卡尔积。此时，这个问题又回归到了初始问题（求1到n的BTS集合）。这种再次回归到初始问题的就可以采用递归的办法解决。  
+设以i为根节点的所有二叉树集合为F(i)，很显然，F(i)的结果为：`{1...i-1}的可能BTS集合`和`{i+1...n}的可能BTS集合`的`笛卡尔积`。此时，这个问题又回归到了初始问题（求1到n的BTS集合）。这种再次回归到初始问题的就可以采用递归的办法解决。  
 
 当然，该问题经过不断递归是有解的。因为不断的递归之后，问题域的size是逐渐减小的。当size==1的时候，问题是可解的（此时，集合只有一个节点，所有的BTS组合唯一）。  
 
 综上，dp思路为：  
-设`F(start, end)`表示从start到end序列的所有BTS可能性的集合。则 `F(start, end)={ F(start, i-1) × F（i+1, end） | i属于{1, ... ,n} }`
+设`F(start, end)`表示从start到end序列的所有BTS可能性的集合。则 `F(start, end)={ F(start, i-1) × F（i+1, end） | i属于{1, ... ,n} }`，此处`×`表示笛卡尔积。
 
 ```java  
 class Solution {
