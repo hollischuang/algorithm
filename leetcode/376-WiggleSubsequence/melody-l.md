@@ -2,7 +2,7 @@
 ---
 [https://leetcode-cn.com/problems/wiggle-subsequence/](https://leetcode-cn.com/problems/wiggle-subsequence/)  
 
-方法一：贪心算法
+方法一：贪心算法  
 官方题解的dp算法实际上也是再找波峰与波谷的个数，所以个人倾向于贪心的思想更多一点。  
 
 贪心的思想是：对于摆动序列，只要有序列存在摆动的地方，那么这个摆动处的元素就得加入到结果集中。我们就是要计算摆动的个数。  
