@@ -41,7 +41,7 @@ class Solution:
         return ans if ans < INF else -1    
 
 ```
-时间复杂度是O(K*s*n)
+时间复杂度是O(K * s * n)
 
 2.另一种动态规划的思路
 
@@ -81,4 +81,4 @@ class Solution(object):
         return ans if ans != float('inf') else -1
 
 ```
-时间复杂度是O(n*K*d)
+时间复杂度是O(n * K * d)
