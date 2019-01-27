@@ -2,7 +2,7 @@
 
 **141. 环形链表**  
 ---
-[https://leetcode-cn.com/problems/linked-list-cycle/](https://leetcode-cn.com/problems/linked-list-cycle/)  
+[https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/)  
 
 摘要  
 
@@ -38,7 +38,7 @@ class Solution {
 **参考资料**  
 
 * 本题leetCode官方题解：  
-[https://leetcode-cn.com/articles/linked-list-cycle/](https://leetcode-cn.com/articles/linked-list-cycle/)  
+[https://leetcode-cn.com/articles/two-sum/](https://leetcode-cn.com/articles/two-sum/)  
 
 * 本题leetCode英文官方题解：  
-[https://leetcode.com/articles/linked-list-cycle/](https://leetcode.com/articles/linked-list-cycle/)  
+[https://leetcode.com/articles/two-sum/](https://leetcode.com/articles/two-sum/)  
