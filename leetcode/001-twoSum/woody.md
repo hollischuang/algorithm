@@ -1,12 +1,13 @@
 >详尽版答案示例，摘自本题的leetCode官方题解
 
-**141. 环形链表**  
+**001.两数之和**  
 ---
-[https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/)  
+[https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/) 
 
 摘要  
 
 本文适用于初学者。  
+
 
 ```java  
 
@@ -33,6 +34,15 @@ class Solution {
  }
 ```  
 
+**复杂度分析**  
+
+时间复杂度：O(n2)O(n^2)O(n2)， 对于每个元素，我们试图通过遍历数组的其余部分来寻找它所对应的目标元素，
+这将耗费 O(n)O(n)O(n) 的时间。因此时间复杂度为 O(n2)O(n^2)O(n2)。  
+
+空间复杂度：
+空间复杂度：O(1)O(1)O(1)。   
+
+---
 
 
 **参考资料**  
