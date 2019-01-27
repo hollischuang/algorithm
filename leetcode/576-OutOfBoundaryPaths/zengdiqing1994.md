@@ -39,18 +39,18 @@ class Solution:
         for k in range(1,N+1):																			
             for p in range(m):				
                 for q in range(n):					
-                    if 0==p:						#如果横坐标是0
-                        up=1								#就可以向上走
+                    if 0==p:	#如果横坐标是0
+                        up=1	#就可以向上走
                     else:
                         up=tmp[k-1][p-1][q]			#否则非0就要走N-1步
                     if m-1==p:		#如果横坐标已经是左移动1了，那么我们向下移动1
                         down=1
                     else:
-                        down=tmp[k-1][p+1][q]		#否则就是横坐标+1的地方走N-1步
+                        down=tmp[k-1][p+1][q]	#否则就是横坐标+1的地方走N-1步
                     if 0==q:
                         left=1
                     else:
-                        left=tmp[k-1][p][q-1]						#同理左右也是一样
+                        left=tmp[k-1][p][q-1]			#同理左右也是一样
                     if n-1==q:
                         right=1
                     else:
