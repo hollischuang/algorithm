@@ -1764,3 +1764,35 @@
 难度：中等  
 
 ---  
+
+2019年03月11日  
+
+[523. 连续的子数组和](https://github.com/hollischuang/algorithm/tree/master/leetcode/523-ContinuousSubarraySum)  
+
+[https://leetcode-cn.com/problems/continuous-subarray-sum/](https://leetcode-cn.com/problems/continuous-subarray-sum/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space](https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月12日  
+
+[837. 新21点](https://github.com/hollischuang/algorithm/tree/master/leetcode/837-New21Game)  
+
+[https://leetcode-cn.com/problems/new-21-game/](https://leetcode-cn.com/problems/new-21-game/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/new-21-game/](https://leetcode.com/articles/new-21-game/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
