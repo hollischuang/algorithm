@@ -1700,3 +1700,67 @@
 难度：中等  
 
 ---  
+
+2019年03月07日  
+
+[967. 连续差相同的数字](https://github.com/hollischuang/algorithm/tree/master/leetcode/967-NumbersWithSameConsecutiveDifferences)  
+
+[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/numbers-with-same-consecutive-differences/](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月08日  
+
+[673. 最长递增子序列的个数](https://github.com/hollischuang/algorithm/tree/master/leetcode/673-NumberOfLongestIncreasingSubsequence)  
+
+[https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/number-of-longest-increasing-subsequence/](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月09日  
+
+[375. 猜数字大小 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/375-GuessNumberHigherOrLowerII)  
+
+[https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/84764/Simple-DP-solution-with-explanation~~](https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/84764/Simple-DP-solution-with-explanation~~)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月10日  
+
+[5. 最长回文子串](https://github.com/hollischuang/algorithm/tree/master/leetcode/005-LongestPalindromicSubstring)  
+
+[https://leetcode-cn.com/problems/longest-palindromic-substring/](https://leetcode-cn.com/problems/longest-palindromic-substring/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/longest-palindromic-substring/](https://leetcode.com/articles/longest-palindromic-substring/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
