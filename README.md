@@ -1796,3 +1796,39 @@
 难度：中等  
 
 ---  
+
+2019年03月13日  
+
+[898. 子数组按位或操作](https://github.com/hollischuang/algorithm/tree/master/leetcode/898-BitwiseORsOfSubarrays)  
+
+[https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/bitwise-ors-of-subarrays/](https://leetcode.com/articles/bitwise-ors-of-subarrays/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月14日  
+
+[91. 解码方法](https://github.com/hollischuang/algorithm/tree/master/leetcode/91-DecodeWays)  
+
+[https://leetcode-cn.com/problems/decode-ways/](https://leetcode-cn.com/problems/decode-ways/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference](https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation](https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
