@@ -1703,37 +1703,21 @@
 
 2019年03月07日  
 
-[967. 连续差相同的数字](https://github.com/hollischuang/algorithm/tree/master/leetcode/967-NumbersWithSameConsecutiveDifferences)  
+[374. 猜数字大小](https://github.com/hollischuang/algorithm/tree/master/leetcode/374-GuessNumberHigherOrLower)  
 
-[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/)  
+[https://leetcode-cn.com/problems/guess-number-higher-or-lower/](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)  
 
 英文官方题解：  
 
-[https://leetcode.com/articles/numbers-with-same-consecutive-differences/](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)  
+[https://leetcode.com/articles/guess-number-higher-or-lower/](https://leetcode.com/articles/guess-number-higher-or-lower/)  
 
-知识点：动态规划  
+知识点：二分查找  
 
-难度：中等  
+难度：简单  
 
 ---  
 
 2019年03月08日  
-
-[673. 最长递增子序列的个数](https://github.com/hollischuang/algorithm/tree/master/leetcode/673-NumberOfLongestIncreasingSubsequence)  
-
-[https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)  
-
-英文官方题解：  
-
-[https://leetcode.com/articles/number-of-longest-increasing-subsequence/](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)  
-
-知识点：动态规划  
-
-难度：中等  
-
----  
-
-2019年03月09日  
 
 [375. 猜数字大小 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/375-GuessNumberHigherOrLowerII)  
 
@@ -1749,7 +1733,71 @@
 
 ---  
 
+2019年03月09日  
+
+[967. 连续差相同的数字](https://github.com/hollischuang/algorithm/tree/master/leetcode/967-NumbersWithSameConsecutiveDifferences)  
+
+[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/numbers-with-same-consecutive-differences/](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
 2019年03月10日  
+
+[673. 最长递增子序列的个数](https://github.com/hollischuang/algorithm/tree/master/leetcode/673-NumberOfLongestIncreasingSubsequence)  
+
+[https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/number-of-longest-increasing-subsequence/](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月11日  
+
+[131. 分割回文串](https://github.com/hollischuang/algorithm/tree/master/leetcode/131-PalindromePartitioning)  
+
+[https://leetcode-cn.com/problems/palindrome-partitioning/](https://leetcode-cn.com/problems/palindrome-partitioning/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/palindrome-partitioning/discuss/41963/Java%3A-Backtracking-solution.](https://leetcode.com/problems/palindrome-partitioning/discuss/41963/Java%3A-Backtracking-solution.)  
+
+知识点：回溯算法  
+
+难度：中等  
+
+---  
+
+2019年03月12日  
+
+[132. 分割回文串II](https://github.com/hollischuang/algorithm/tree/master/leetcode/132-PalindromePartitioningII)  
+
+[https://leetcode-cn.com/problems/palindrome-partitioning-ii/](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/palindrome-partitioning-ii/discuss/42198/My-solution-does-not-need-a-table-for-palindrome-is-it-right-It-uses-only-O(n)-space.](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/42198/My-solution-does-not-need-a-table-for-palindrome-is-it-right-It-uses-only-O(n)-space.)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月13日  
 
 [5. 最长回文子串](https://github.com/hollischuang/algorithm/tree/master/leetcode/005-LongestPalindromicSubstring)  
 
@@ -1762,5 +1810,249 @@
 知识点：动态规划  
 
 难度：中等  
+
+---  
+
+2019年03月14日  
+
+[523. 连续的子数组和](https://github.com/hollischuang/algorithm/tree/master/leetcode/523-ContinuousSubarraySum)  
+
+[https://leetcode-cn.com/problems/continuous-subarray-sum/](https://leetcode-cn.com/problems/continuous-subarray-sum/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space](https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月15日  
+
+[837. 新21点](https://github.com/hollischuang/algorithm/tree/master/leetcode/837-New21Game)  
+
+[https://leetcode-cn.com/problems/new-21-game/](https://leetcode-cn.com/problems/new-21-game/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/new-21-game/](https://leetcode.com/articles/new-21-game/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月16日  
+
+[898. 子数组按位或操作](https://github.com/hollischuang/algorithm/tree/master/leetcode/898-BitwiseORsOfSubarrays)  
+
+[https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/bitwise-ors-of-subarrays/](https://leetcode.com/articles/bitwise-ors-of-subarrays/)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月17日  
+
+[91. 解码方法](https://github.com/hollischuang/algorithm/tree/master/leetcode/091-DecodeWays)  
+
+[https://leetcode-cn.com/problems/decode-ways/](https://leetcode-cn.com/problems/decode-ways/)  
+
+无官方题解，网友高票Java答案1：  
+
+[https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference](https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference)  
+
+无官方题解，网友高票Java答案2：  
+
+[https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation](https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation)  
+
+知识点：动态规划  
+
+难度：中等  
+
+---  
+
+2019年03月18日  
+
+[312. 戳气球](https://github.com/hollischuang/algorithm/tree/master/leetcode/312-BurstBalloons)  
+
+[https://leetcode-cn.com/problems/burst-balloons/](https://leetcode-cn.com/problems/burst-balloons/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations](https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月19日  
+
+[72. 编辑距离](https://github.com/hollischuang/algorithm/tree/master/leetcode/072-EditDistance)  
+
+[https://leetcode-cn.com/problems/edit-distance/](https://leetcode-cn.com/problems/edit-distance/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/edit-distance/discuss/25849/Java-DP-solution-O(nm)](https://leetcode.com/problems/edit-distance/discuss/25849/Java-DP-solution-O(nm))  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月20日  
+
+[975. 奇偶跳](https://github.com/hollischuang/algorithm/tree/master/leetcode/975-OddEvenJump)  
+
+[https://leetcode-cn.com/problems/odd-even-jump/](https://leetcode-cn.com/problems/odd-even-jump/)  
+
+官方题解：  
+
+[https://leetcode-cn.com/articles/odd-even-jump/](https://leetcode-cn.com/articles/odd-even-jump/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月21日  
+
+[115. 不同的子序列](https://github.com/hollischuang/algorithm/tree/master/leetcode/115-DistinctSubsequences)  
+
+[https://leetcode-cn.com/problems/distinct-subsequences/](https://leetcode-cn.com/problems/distinct-subsequences/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/distinct-subsequences/discuss/37327/Easy-to-understand-DP-in-Java](https://leetcode.com/problems/distinct-subsequences/discuss/37327/Easy-to-understand-DP-in-Java)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月22日  
+
+[940. 不同的子序列 II](https://github.com/hollischuang/algorithm/tree/master/leetcode/940-DistinctSubsequencesII)  
+
+[https://leetcode-cn.com/problems/distinct-subsequences-ii/](https://leetcode-cn.com/problems/distinct-subsequences-ii/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/distinct-subsequences-ii/](https://leetcode.com/articles/distinct-subsequences-ii/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月23日  
+
+[691. 贴纸拼词](https://github.com/hollischuang/algorithm/tree/master/leetcode/691-StickersToSpellWord)  
+
+[https://leetcode-cn.com/problems/stickers-to-spell-word/](https://leetcode-cn.com/problems/stickers-to-spell-word/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/stickers-to-spell-word/](https://leetcode.com/articles/stickers-to-spell-word/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月24日  
+
+[982. 按位与为零的三元组](https://github.com/hollischuang/algorithm/tree/master/leetcode/982-TriplesWithBitwiseANDEqualToZero)  
+
+[https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/discuss/226721/Java-DP-O(3-*-216-*-n)-time-O(216)-space](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/discuss/226721/Java-DP-O(3-*-216-*-n)-time-O(216)-space)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月25日  
+
+[546. 移除盒子](https://github.com/hollischuang/algorithm/tree/master/leetcode/546-RemoveBoxes)  
+
+[https://leetcode-cn.com/problems/remove-boxes/](https://leetcode-cn.com/problems/remove-boxes/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/remove-boxes/discuss/101310/Java-top-down-and-bottom-up-DP-solutions](https://leetcode.com/problems/remove-boxes/discuss/101310/Java-top-down-and-bottom-up-DP-solutions)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月26日  
+
+[85. 最大矩形](https://github.com/hollischuang/algorithm/tree/master/leetcode/085-MaximalRectangle)  
+
+[https://leetcode-cn.com/problems/maximal-rectangle/](https://leetcode-cn.com/problems/maximal-rectangle/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/maximal-rectangle/discuss/29054/Share-my-DP-solution](https://leetcode.com/problems/maximal-rectangle/discuss/29054/Share-my-DP-solution)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月27日  
+
+[903. DI 序列的有效排列](https://github.com/hollischuang/algorithm/tree/master/903-ValidPermutationsForDISequence)  
+
+[https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/valid-permutations-for-di-sequence/](https://leetcode.com/articles/valid-permutations-for-di-sequence/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月28日  
+
+[629. K个逆序对数组](https://github.com/hollischuang/algorithm/tree/master/629-KInversePairsArray)  
+
+[https://leetcode-cn.com/problems/k-inverse-pairs-array/](https://leetcode-cn.com/problems/k-inverse-pairs-array/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/k-inverse-pairs-array/](https://leetcode.com/articles/k-inverse-pairs-array/)  
+
+知识点：动态规划  
+
+难度：困难  
 
 ---  
