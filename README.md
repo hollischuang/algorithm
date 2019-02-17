@@ -1737,7 +1737,7 @@
 
 [967. 连续差相同的数字](https://github.com/hollischuang/algorithm/tree/master/leetcode/967-NumbersWithSameConsecutiveDifferences)  
 
-[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/submissions/)  
+[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)  
 
 英文官方题解：  
 
@@ -1863,7 +1863,7 @@
 
 2019年03月17日  
 
-[91. 解码方法](https://github.com/hollischuang/algorithm/tree/master/leetcode/91-DecodeWays)  
+[91. 解码方法](https://github.com/hollischuang/algorithm/tree/master/leetcode/091-DecodeWays)  
 
 [https://leetcode-cn.com/problems/decode-ways/](https://leetcode-cn.com/problems/decode-ways/)  
 
@@ -1917,7 +1917,7 @@
 
 [975. 奇偶跳](https://github.com/hollischuang/algorithm/tree/master/leetcode/975-OddEvenJump)  
 
-[https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)  
+[https://leetcode-cn.com/problems/odd-even-jump/](https://leetcode-cn.com/problems/odd-even-jump/)  
 
 官方题解：  
 
