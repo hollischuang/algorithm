@@ -2027,7 +2027,7 @@
 
 2019年03月27日  
 
-[903. DI 序列的有效排列](https://github.com/hollischuang/algorithm/tree/master/903-ValidPermutationsForDISequence)  
+[903. DI 序列的有效排列](https://github.com/hollischuang/algorithm/tree/master/leetcode/903-ValidPermutationsForDISequence)  
 
 [https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)  
 
@@ -2043,7 +2043,7 @@
 
 2019年03月28日  
 
-[629. K个逆序对数组](https://github.com/hollischuang/algorithm/tree/master/629-KInversePairsArray)  
+[629. K个逆序对数组](https://github.com/hollischuang/algorithm/tree/master/leetcode/629-KInversePairsArray)  
 
 [https://leetcode-cn.com/problems/k-inverse-pairs-array/](https://leetcode-cn.com/problems/k-inverse-pairs-array/)  
 
