@@ -1,6 +1,4 @@
-903. DI 序列的有效排列
-
-![](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)
+![903. DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)
 
 我们给出 S，一个源于 {'D', 'I'} 的长度为 n 的字符串 。（这些字母代表 “减少” 和 “增加”。）
 有效排列 是对整数 {0, 1, ..., n} 的一个排列 P[0], P[1], ..., P[n]，使得对所有的 i：
