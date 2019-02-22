@@ -53,6 +53,5 @@ class Solution:
 
 空间复杂度：O(n)
 
-参考：
 
-![](https://blog.csdn.net/zjucor/article/details/82557070)
+![参考](https://blog.csdn.net/zjucor/article/details/82557070)
