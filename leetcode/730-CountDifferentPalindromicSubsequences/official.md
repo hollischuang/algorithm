@@ -1,3 +1,3 @@
-**746. 使用最小花费爬楼梯**  
+**730. 统计不同回文子字符串**  
 ---
-[https://leetcode-cn.com/problems/min-cost-climbing-stairs/](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)  
+[https://leetcode-cn.com/problems/count-different-palindromic-subsequences/](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/)  
