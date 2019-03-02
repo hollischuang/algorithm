@@ -60,8 +60,7 @@ O(N), 使用了List存储n个单词
 **参考资料**  
 
 * 本题leetCode英文官方题解：  
-[https://leetcode.com/articles/linked-list-cycle/](https://leetcode.com/articles/linked-list-cycle/)  
-
+[https://leetcode.com/articles/top-k-frequent-words/](https://leetcode.com/articles/top-k-frequent-words/)  
 
 * Collections.sort()的用法和要点：  
 [https://blog.csdn.net/wsll581/article/details/79953589](https://blog.csdn.net/wsll581/article/details/79953589)  
