@@ -2056,3 +2056,35 @@
 难度：困难  
 
 ---  
+
+2019年03月29日  
+
+[956. 最高的广告牌](https://github.com/hollischuang/algorithm/tree/master/leetcode/629-KInversePairsArray)  
+
+[https://leetcode-cn.com/problems/tallest-billboard/](https://leetcode-cn.com/problems/tallest-billboard/)  
+
+英文官方题解：  
+
+[https://leetcode.com/problems/tallest-billboard/solution/](https://leetcode.com/problems/tallest-billboard/solution/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年03月30日  
+
+[664. 奇怪的打印机](https://github.com/hollischuang/algorithm/tree/master/leetcode/629-KInversePairsArray)  
+
+[https://leetcode-cn.com/problems/strange-printer/](https://leetcode-cn.com/problems/strange-printer/)  
+
+英文官方题解：  
+
+[https://leetcode.com/problems/strange-printer/solution/](https://leetcode.com/problems/strange-printer/solution/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
