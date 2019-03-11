@@ -2088,3 +2088,35 @@
 难度：困难  
 
 ---  
+
+2019年04月01日  
+
+[943. 最短超级串](https://github.com/hollischuang/algorithm/tree/master/leetcode/943-FindTheShortestSuperstring)  
+
+[https://leetcode-cn.com/problems/find-the-shortest-superstring/](https://leetcode-cn.com/problems/find-the-shortest-superstring/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/find-the-shortest-superstring/](https://leetcode.com/articles/find-the-shortest-superstring/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+2019年04月02日  
+
+[32. 最长有效括号](https://github.com/hollischuang/algorithm/tree/master/leetcode/032-LongestValidParentheses)  
+
+[https://leetcode-cn.com/problems/longest-valid-parentheses/](https://leetcode-cn.com/problems/longest-valid-parentheses/)  
+
+英文官方题解：  
+
+[https://leetcode.com/articles/longest-valid-parentheses/](https://leetcode.com/articles/longest-valid-parentheses/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
