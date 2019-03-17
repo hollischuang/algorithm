@@ -2120,3 +2120,37 @@
 难度：困难  
 
 ---  
+
+
+2019年04月03日  
+
+[403. 青蛙过河](https://github.com/hollischuang/algorithm/tree/master/leetcode/403-FrogJump)  
+
+[https://leetcode-cn.com/problems/frog-jump/](https://leetcode-cn.com/problems/frog-jump/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+
+2019年04月04日  
+
+[321. 拼接最大数](https://github.com/hollischuang/algorithm/tree/master/leetcode/321-CreateMaximumNumber)  
+
+[https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution](https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
