@@ -1,7 +1,7 @@
 提交答案步骤  
 ---
 
->各位Hollis的朋友们，在向本项目提交您的答案详解时，请阅读以下内容  
+>各位网友好，在向本项目提交您的答案详解时，请阅读以下内容  
 
 <br>
 
@@ -103,9 +103,3 @@
 4) 在git上提交你的文件，管理员审核通过后大家就能看到你的答案并和你讨论了  
 
 ---
-
-**参考资料**  
-
-1) [leetCode中文题库](https://leetcode-cn.com/problemset/all/)  
-
-2) [覃超《算法面试通关40讲》课件](https://github.com/geektime-geekbang/algorithm-1)  
