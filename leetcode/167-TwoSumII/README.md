@@ -1,7 +1,7 @@
 **167. 两数之和 II - 输入有序数组**  
 ---
 
-[https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  
+[https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  
 
 给定一个已按照升序排列 的有序数组，找到两个数使得它们相加之和等于目标数。
 
