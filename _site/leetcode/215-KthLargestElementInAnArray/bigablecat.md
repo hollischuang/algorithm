@@ -1,6 +1,6 @@
 **找数组中第K大的数**
 ---
-[https://leetcode-cn.com/problems/kth-largest-element-in-an-array/](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+[https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 * 《程序员面试金典(第5版)》第8章：排序与查找，结合leetCode上网友高效解法：  
 
