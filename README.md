@@ -1,7 +1,7 @@
 
 ### 算法每日一练
 
-* 这个专栏是Hollis知识星球的朋友们练习算法的地方  
+* 这个专栏是Hollis知识星球的朋友们练习算法的地方，同时也欢迎广大网友参与  
 * 所有题目来源是[leetCode](https://leetcode-cn.com/problemset/all/)官方公开题库  
 
 ### 初学者友好的算法题目解答  
@@ -2114,6 +2114,40 @@
 英文官方题解：  
 
 [https://leetcode.com/articles/longest-valid-parentheses/](https://leetcode.com/articles/longest-valid-parentheses/)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+
+2019年04月03日  
+
+[403. 青蛙过河](https://github.com/hollischuang/algorithm/tree/master/leetcode/403-FrogJump)  
+
+[https://leetcode-cn.com/problems/frog-jump/](https://leetcode-cn.com/problems/frog-jump/)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
+
+知识点：动态规划  
+
+难度：困难  
+
+---  
+
+
+2019年04月04日  
+
+[321. 拼接最大数](https://github.com/hollischuang/algorithm/tree/master/leetcode/321-CreateMaximumNumber)  
+
+[https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution](https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution)  
+
+无官方题解，网友高票Java答案：  
+
+[https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
 
 知识点：动态规划  
 
