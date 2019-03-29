@@ -4,14 +4,14 @@
 
 编写一个程序，找到两个单链表相交的起始节点。
 
-如下面的两个链表：
-![160_statement](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/14/160_statement.png)  
+如下面的两个链表：  
+![160_statement](https://raw.githubusercontent.com/hollischuang/algorithm/master/images/160_statement.png)  
 
 
 在节点 c1 开始相交。  
 
 **示例 1：**  
-![160_example_1](https://assets.leetcode.com/uploads/2018/12/13/160_example_1.png)  
+![160_example_1](https://raw.githubusercontent.com/hollischuang/algorithm/master/images/160_example_1.png)  
 
 
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3
@@ -20,7 +20,7 @@
 
 
 **示例 2：**  
-![160_example_2](https://assets.leetcode.com/uploads/2018/12/13/160_example_2.png)  
+![160_example_2](https://raw.githubusercontent.com/hollischuang/algorithm/master/images/160_example_2.png)  
 
 ```  
 输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
@@ -29,7 +29,7 @@
 ```  
 
 **示例 3：**  
-![160_example_3](https://assets.leetcode.com/uploads/2018/12/13/160_exmple_3.png)  
+![160_example_3](https://raw.githubusercontent.com/hollischuang/algorithm/master/images/160_example_3.png)  
 
 ```  
 输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
