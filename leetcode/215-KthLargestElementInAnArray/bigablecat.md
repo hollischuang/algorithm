@@ -1,6 +1,6 @@
-**找数组中第K大的数**
+**215. 找数组中第K大的数**
 ---
-[https://leetcode.com/problems/kth-largest-element-in-an-array/](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+[https://leetcode-cn.com/problems/kth-largest-element-in-an-array/](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 
 * 《程序员面试金典(第5版)》第8章：排序与查找，结合leetCode上网友高效解法：  
 
@@ -132,7 +132,7 @@
 **复杂度分析**  
 
 空间复杂度：O(1)，
-没有使用额外空间，空间复杂读是O(1)
+没有使用额外空间，空间复杂度是O(1)
 
 **参考资料**  
 
