@@ -2,7 +2,7 @@
 ---
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
 
-* 网友高票Java答案(动态规划)  
+* 网友高票Java解法(动态规划)  
 
 ```java  
     public static int maxProfit(int[] prices) {
@@ -81,5 +81,5 @@
 
 **参考资料**  
 
-* 网友高票Java答案：  
+* 网友高票Java解法：  
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75927/Share-my-thinking-process](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75927/Share-my-thinking-process)  

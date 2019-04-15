@@ -47,7 +47,7 @@
 
 [https://leetcode-cn.com/problems/swap-nodes-in-pairs/](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  
 
-无官方题解，网友最高票Java答案：  
+无官方题解，网友最高票Java解法：  
 
 [https://leetcode.com/problems/swap-nodes-in-pairs/discuss/11030/My-accepted-java-code.-used-recursion.](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/11030/My-accepted-java-code.-used-recursion.)  
 
@@ -79,7 +79,7 @@
 
 [https://leetcode-cn.com/problems/linked-list-cycle-ii/](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.)  
 
@@ -95,7 +95,7 @@
 
 [https://leetcode-cn.com/problems/reverse-nodes-in-k-group/](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/11423/Short-but-recursive-Java-code-with-comments](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/11423/Short-but-recursive-Java-code-with-comments)  
 
@@ -175,7 +175,7 @@
 
 [https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/149050/Java-Priority-Queue](https://leetcode.com/problems/kth-largest-element-in-a-stream/discuss/149050/Java-Priority-Queue)  
 
@@ -207,7 +207,7 @@
 
 [https://leetcode-cn.com/problems/sliding-window-maximum/](https://leetcode-cn.com/problems/sliding-window-maximum/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/sliding-window-maximum/discuss/65884/Java-O(n)-solution-using-deque-with-explanation](https://leetcode.com/problems/sliding-window-maximum/discuss/65884/Java-O(n)-solution-using-deque-with-explanation)  
 
@@ -255,7 +255,7 @@
 
 [https://leetcode-cn.com/problems/3sum/](https://leetcode-cn.com/problems/3sum/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/3sum/discuss/7380/Concise-O(N2)-Java-solution](https://leetcode.com/problems/3sum/discuss/7380/Concise-O(N2)-Java-solution)  
 
@@ -271,11 +271,11 @@
 
 [https://leetcode-cn.com/problems/validate-binary-search-tree/](https://leetcode-cn.com/problems/validate-binary-search-tree/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)](https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution))  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/validate-binary-search-tree/discuss/32109/My-simple-Java-solution-in-3-lines](https://leetcode.com/problems/validate-binary-search-tree/discuss/32109/My-simple-Java-solution-in-3-lines)  
 
@@ -307,11 +307,11 @@
 
 [https://leetcode-cn.com/problems/powx-n/](https://leetcode-cn.com/problems/powx-n/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/powx-n/discuss/19546/Short-and-easy-to-understand-solution](https://leetcode.com/problems/powx-n/discuss/19546/Short-and-easy-to-understand-solution)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/powx-n/discuss/19544/5-different-choices-when-talk-with-interviewers](https://leetcode.com/problems/powx-n/discuss/19544/5-different-choices-when-talk-with-interviewers)  
 
@@ -343,11 +343,11 @@
 
 [https://leetcode-cn.com/problems/maximum-subarray/](https://leetcode-cn.com/problems/maximum-subarray/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts](https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/maximum-subarray/discuss/20211/Accepted-O(n)-solution-in-java](https://leetcode.com/problems/maximum-subarray/discuss/20211/Accepted-O(n)-solution-in-java)  
 
@@ -395,11 +395,11 @@
 
 [https://leetcode-cn.com/problems/assign-cookies/](https://leetcode-cn.com/problems/assign-cookies/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/assign-cookies/discuss/93987/Simple-Greedy-Java-Solution](https://leetcode.com/problems/assign-cookies/discuss/93987/Simple-Greedy-Java-Solution)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/assign-cookies/discuss/93997/Array-sort-%2B-Two-pointer-greedy-solution-O(nlogn)](https://leetcode.com/problems/assign-cookies/discuss/93997/Array-sort-%2B-Two-pointer-greedy-solution-O(nlogn))  
 
@@ -431,11 +431,11 @@
 
 [https://leetcode-cn.com/problems/binary-tree-level-order-traversal/](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/33450/Java-solution-with-a-queue-used](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/33450/Java-solution-with-a-queue-used)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/33445/Java-Solution-using-DFS](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/33445/Java-Solution-using-DFS)  
 
@@ -467,11 +467,11 @@
 
 [https://leetcode-cn.com/problems/n-queens/](https://leetcode-cn.com/problems/n-queens/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/n-queens/discuss/19805/My-easy-understanding-Java-Solution](https://leetcode.com/problems/n-queens/discuss/19805/My-easy-understanding-Java-Solution)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/n-queens/discuss/19808/Accepted-4ms-c%2B%2B-solution-use-backtracking-and-bitmask-easy-understand.](https://leetcode.com/problems/n-queens/discuss/19808/Accepted-4ms-c%2B%2B-solution-use-backtracking-and-bitmask-easy-understand.)  
 
@@ -487,11 +487,11 @@
 
 [https://leetcode-cn.com/problems/valid-sudoku/](https://leetcode-cn.com/problems/valid-sudoku/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/valid-sudoku/discuss/15472/Short%2BSimple-Java-using-Strings](https://leetcode.com/problems/valid-sudoku/discuss/15472/Short%2BSimple-Java-using-Strings)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/valid-sudoku/discuss/15450/Shared-my-concise-Java-code](https://leetcode.com/problems/valid-sudoku/discuss/15450/Shared-my-concise-Java-code)  
 
@@ -507,7 +507,7 @@
 
 [https://leetcode-cn.com/problems/sudoku-solver/](https://leetcode-cn.com/problems/sudoku-solver/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/sudoku-solver/discuss/15752/Straight-Forward-Java-Solution-Using-Backtracking](https://leetcode.com/problems/sudoku-solver/discuss/15752/Straight-Forward-Java-Solution-Using-Backtracking)  
 
@@ -523,7 +523,7 @@
 
 [https://leetcode-cn.com/problems/sqrtx/](https://leetcode-cn.com/problems/sqrtx/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/sqrtx/discuss/25047/A-Binary-Search-Solution](https://leetcode.com/problems/sqrtx/discuss/25047/A-Binary-Search-Solution)  
 
@@ -539,7 +539,7 @@
 
 [https://leetcode-cn.com/problems/valid-perfect-square/](https://leetcode-cn.com/problems/valid-perfect-square/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/valid-perfect-square/discuss/83874/A-square-number-is-1%2B3%2B5%2B7%2B...-JAVA-code](https://leetcode.com/problems/valid-perfect-square/discuss/83874/A-square-number-is-1%2B3%2B5%2B7%2B...-JAVA-code)  
 
@@ -571,7 +571,7 @@
 
 [https://leetcode-cn.com/problems/word-search-ii/](https://leetcode-cn.com/problems/word-search-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/word-search-ii/discuss/59780/Java-15ms-Easiest-Solution-(100.00)](https://leetcode.com/problems/word-search-ii/discuss/59780/Java-15ms-Easiest-Solution-(100.00))  
 
@@ -603,7 +603,7 @@
 
 [https://leetcode-cn.com/problems/counting-bits/](https://leetcode-cn.com/problems/counting-bits/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/counting-bits/discuss/79539/Three-Line-Java-Solution](https://leetcode.com/problems/counting-bits/discuss/79539/Three-Line-Java-Solution)  
 
@@ -619,7 +619,7 @@
 
 [https://leetcode-cn.com/problems/power-of-two/](https://leetcode-cn.com/problems/power-of-two/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/power-of-two/discuss/63972/One-line-java-solution-using-bitCount](https://leetcode.com/problems/power-of-two/discuss/63972/One-line-java-solution-using-bitCount)  
 
@@ -635,11 +635,11 @@
 
 [https://leetcode-cn.com/problems/n-queens-ii/](https://leetcode-cn.com/problems/n-queens-ii/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/n-queens-ii/discuss/20058/Accepted-Java-Solution](https://leetcode.com/problems/n-queens-ii/discuss/20058/Accepted-Java-Solution)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/n-queens-ii/discuss/20048/Easiest-Java-Solution-(1ms-98.22)](https://leetcode.com/problems/n-queens-ii/discuss/20048/Easiest-Java-Solution-(1ms-98.22))  
 
@@ -671,11 +671,11 @@
 
 [https://leetcode-cn.com/problems/triangle/](https://leetcode-cn.com/problems/triangle/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle](https://leetcode.com/problems/triangle/discuss/38730/DP-Solution-for-Triangle)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/triangle/discuss/38724/7-lines-neat-Java-Solution](https://leetcode.com/problems/triangle/discuss/38724/7-lines-neat-Java-Solution)  
 
@@ -691,11 +691,11 @@
 
 [https://leetcode-cn.com/problems/maximum-product-subarray/](https://leetcode-cn.com/problems/maximum-product-subarray/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/maximum-product-subarray/discuss/48230/Possibly-simplest-solution-with-O(n)-time-complexity](https://leetcode.com/problems/maximum-product-subarray/discuss/48230/Possibly-simplest-solution-with-O(n)-time-complexity)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/maximum-product-subarray/discuss/48252/Sharing-my-solution%3A-O(1)-space-O(n)-running-time](https://leetcode.com/problems/maximum-product-subarray/discuss/48252/Sharing-my-solution%3A-O(1)-space-O(n)-running-time)
 
@@ -711,11 +711,11 @@
 
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/39611/Is-it-Best-Solution-with-O(n)-O(1).](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/39611/Is-it-Best-Solution-with-O(n)-O(1).)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/135704/Detail-explanation-of-DP-solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/135704/Detail-explanation-of-DP-solution)  
 
@@ -747,7 +747,7 @@
 
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54113/A-Concise-DP-Solution-in-Java](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/54113/A-Concise-DP-Solution-in-Java)  
 
@@ -763,7 +763,7 @@
 
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75927/Share-my-thinking-process](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75927/Share-my-thinking-process)  
 
@@ -843,7 +843,7 @@
 
 [https://leetcode-cn.com/problems/number-of-islands/](https://leetcode-cn.com/problems/number-of-islands/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/number-of-islands/discuss/56359/Very-concise-Java-AC-solution](https://leetcode.com/problems/number-of-islands/discuss/56359/Very-concise-Java-AC-solution)  
 
@@ -859,11 +859,11 @@
 
 [https://leetcode-cn.com/problems/friend-circles/](https://leetcode-cn.com/problems/friend-circles/)  
 
-无官方题解，网友高票Java答案1(DFS)：  
+无官方题解，网友高票Java解法1(DFS)：  
 
 [https://leetcode.com/problems/friend-circles/discuss/101338/Neat-DFS-java-solution](https://leetcode.com/problems/friend-circles/discuss/101338/Neat-DFS-java-solution)  
 
-无官方题解，网友高票Java答案2(Union Find)：  
+无官方题解，网友高票Java解法2(Union Find)：  
 
 [https://leetcode.com/problems/friend-circles/discuss/101336/Java-solution-Union-Find](https://leetcode.com/problems/friend-circles/discuss/101336/Java-solution-Union-Find)  
 
@@ -879,7 +879,7 @@
 
 [https://leetcode-cn.com/problems/lru-cache/](https://leetcode-cn.com/problems/lru-cache/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/lru-cache/discuss/45911/Java-Hashtable-%2B-Double-linked-list-(with-a-touch-of-pseudo-nodes)](https://leetcode.com/problems/lru-cache/discuss/45911/Java-Hashtable-%2B-Double-linked-list-(with-a-touch-of-pseudo-nodes))  
 
@@ -935,7 +935,7 @@
 
 [https://leetcode-cn.com/problems/house-robber/](https://leetcode-cn.com/problems/house-robber/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)  
 
@@ -967,7 +967,7 @@
 
 [https://leetcode-cn.com/problems/minimum-path-sum/](https://leetcode-cn.com/problems/minimum-path-sum/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/minimum-path-sum/discuss/23471/My-java-solution-using-DP-and-no-extra-space](https://leetcode.com/problems/minimum-path-sum/discuss/23471/My-java-solution-using-DP-and-no-extra-space)  
 
@@ -1031,11 +1031,11 @@
 
 [https://leetcode-cn.com/problems/unique-paths/](https://leetcode-cn.com/problems/unique-paths/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/unique-paths/discuss/22958/Math-solution-O(1)-space](https://leetcode.com/problems/unique-paths/discuss/22958/Math-solution-O(1)-space)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/unique-paths/discuss/22953/Java-DP-solution-with-complexity-O(n*m)](https://leetcode.com/problems/unique-paths/discuss/22953/Java-DP-solution-with-complexity-O(n*m))  
 
@@ -1099,7 +1099,7 @@
 
 [https://leetcode-cn.com/problems/integer-break/](https://leetcode-cn.com/problems/integer-break/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/integer-break/discuss/80689/A-simple-explanation-of-the-math-part-and-a-O(n)-solution](https://leetcode.com/problems/integer-break/discuss/80689/A-simple-explanation-of-the-math-part-and-a-O(n)-solution)  
 
@@ -1179,7 +1179,7 @@
 
 [https://leetcode-cn.com/problems/perfect-squares/](https://leetcode-cn.com/problems/perfect-squares/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/perfect-squares/discuss/71495/An-easy-understanding-DP-solution-in-Java](https://leetcode.com/problems/perfect-squares/discuss/71495/An-easy-understanding-DP-solution-in-Java)  
 
@@ -1195,7 +1195,7 @@
 
 [https://leetcode-cn.com/problems/is-subsequence/](https://leetcode-cn.com/problems/is-subsequence/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments)  
 
@@ -1211,7 +1211,7 @@
 
 [https://leetcode-cn.com/problems/combination-sum-iv/](https://leetcode-cn.com/problems/combination-sum-iv/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/combination-sum-iv/discuss/85036/1ms-Java-DP-Solution-with-Detailed-Explanation](https://leetcode.com/problems/combination-sum-iv/discuss/85036/1ms-Java-DP-Solution-with-Detailed-Explanation)  
 
@@ -1243,7 +1243,7 @@
 
 [https://leetcode-cn.com/problems/count-numbers-with-unique-digits/](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/count-numbers-with-unique-digits/discuss/83041/JAVA-DP-O(1)-solution.](https://leetcode.com/problems/count-numbers-with-unique-digits/discuss/83041/JAVA-DP-O(1)-solution.)  
 
@@ -1275,7 +1275,7 @@
 
 [https://leetcode-cn.com/problems/longest-palindromic-subsequence/](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99101/Straight-forward-Java-DP-solution](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99101/Straight-forward-Java-DP-solution)  
 
@@ -1355,7 +1355,7 @@
 
 [https://leetcode-cn.com/problems/word-break/](https://leetcode-cn.com/problems/word-break/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/word-break/discuss/43790/Java-implementation-using-DP-in-two-ways](https://leetcode.com/problems/word-break/discuss/43790/Java-implementation-using-DP-in-two-ways)  
 
@@ -1371,7 +1371,7 @@
 
 [https://leetcode-cn.com/problems/ugly-number-ii/](https://leetcode-cn.com/problems/ugly-number-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/ugly-number-ii/discuss/69362/O(n)-Java-solution](https://leetcode.com/problems/ugly-number-ii/discuss/69362/O(n)-Java-solution)  
 
@@ -1387,11 +1387,11 @@
 
 [https://leetcode-cn.com/problems/partition-equal-subset-sum/](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation](https://leetcode.com/problems/partition-equal-subset-sum/discuss/90592/01-knapsack-detailed-explanation)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/partition-equal-subset-sum/discuss/90627/Java-Solution-similar-to-backpack-problem-Easy-to-understand](https://leetcode.com/problems/partition-equal-subset-sum/discuss/90627/Java-Solution-similar-to-backpack-problem-Easy-to-understand)  
 
@@ -1455,11 +1455,11 @@
 
 [https://leetcode-cn.com/problems/ones-and-zeroes/](https://leetcode-cn.com/problems/ones-and-zeroes/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/ones-and-zeroes/discuss/95807/0-1-knapsack-detailed-explanation.](https://leetcode.com/problems/ones-and-zeroes/discuss/95807/0-1-knapsack-detailed-explanation.)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/ones-and-zeroes/discuss/95811/Java-Iterative-DP-Solution-O(mn)-Space](https://leetcode.com/problems/ones-and-zeroes/discuss/95811/Java-Iterative-DP-Solution-O(mn)-Space)  
 
@@ -1475,7 +1475,7 @@
 
 [https://leetcode-cn.com/problems/push-dominoes/](https://leetcode-cn.com/problems/push-dominoes/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/articles/push-dominoes/](https://leetcode.com/articles/push-dominoes/)  
 
@@ -1491,7 +1491,7 @@
 
 [https://leetcode-cn.com/problems/domino-and-tromino-tiling/](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3](https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3)  
 
@@ -1587,7 +1587,7 @@
 
 [https://leetcode-cn.com/problems/house-robber-ii/](https://leetcode-cn.com/problems/house-robber-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/house-robber-ii/discuss/59934/Simple-AC-solution-in-Java-in-O(n)-with-explanation](https://leetcode.com/problems/house-robber-ii/discuss/59934/Simple-AC-solution-in-Java-in-O(n)-with-explanation)  
 
@@ -1603,7 +1603,7 @@
 
 [https://leetcode-cn.com/problems/largest-divisible-subset/](https://leetcode-cn.com/problems/largest-divisible-subset/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/largest-divisible-subset/discuss/84006/Classic-DP-solution-similar-to-LIS-O(n2)](https://leetcode.com/problems/largest-divisible-subset/discuss/84006/Classic-DP-solution-similar-to-LIS-O(n2))  
 
@@ -1619,7 +1619,7 @@
 
 [https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/95439/Concise-Java-solution-using-DP](https://leetcode.com/problems/unique-substrings-in-wraparound-string/discuss/95439/Concise-Java-solution-using-DP)  
 
@@ -1635,11 +1635,11 @@
 
 [https://leetcode-cn.com/problems/can-i-win/](https://leetcode-cn.com/problems/can-i-win/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/can-i-win/discuss/95277/Java-solution-using-HashMap-with-detailed-explanation](https://leetcode.com/problems/can-i-win/discuss/95277/Java-solution-using-HashMap-with-detailed-explanation)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/can-i-win/discuss/95293/Java-easy-strightforward-solution-with-explanation](https://leetcode.com/problems/can-i-win/discuss/95293/Java-easy-strightforward-solution-with-explanation)  
 
@@ -1671,11 +1671,11 @@
 
 [https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115541/JavaPython-Priority-Queue-Solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/115541/JavaPython-Priority-Queue-Solution)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/128776/5-ms-AC-Java-Solution-based-on-Dijkstra's-Algorithm](https://leetcode.com/problems/cheapest-flights-within-k-stops/discuss/128776/5-ms-AC-Java-Solution-based-on-Dijkstra's-Algorithm)  
 
@@ -1723,7 +1723,7 @@
 
 [https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/84764/Simple-DP-solution-with-explanation~~](https://leetcode.com/problems/guess-number-higher-or-lower-ii/discuss/84764/Simple-DP-solution-with-explanation~~)  
 
@@ -1771,7 +1771,7 @@
 
 [https://leetcode-cn.com/problems/palindrome-partitioning/](https://leetcode-cn.com/problems/palindrome-partitioning/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/palindrome-partitioning/discuss/41963/Java%3A-Backtracking-solution.](https://leetcode.com/problems/palindrome-partitioning/discuss/41963/Java%3A-Backtracking-solution.)  
 
@@ -1787,7 +1787,7 @@
 
 [https://leetcode-cn.com/problems/palindrome-partitioning-ii/](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/palindrome-partitioning-ii/discuss/42198/My-solution-does-not-need-a-table-for-palindrome-is-it-right-It-uses-only-O(n)-space.](https://leetcode.com/problems/palindrome-partitioning-ii/discuss/42198/My-solution-does-not-need-a-table-for-palindrome-is-it-right-It-uses-only-O(n)-space.)  
 
@@ -1819,7 +1819,7 @@
 
 [https://leetcode-cn.com/problems/continuous-subarray-sum/](https://leetcode-cn.com/problems/continuous-subarray-sum/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space](https://leetcode.com/problems/continuous-subarray-sum/discuss/99499/Java-O(n)-time-O(k)-space)  
 
@@ -1867,11 +1867,11 @@
 
 [https://leetcode-cn.com/problems/decode-ways/](https://leetcode-cn.com/problems/decode-ways/)  
 
-无官方题解，网友高票Java答案1：  
+无官方题解，网友高票Java解法1：  
 
 [https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference](https://leetcode.com/problems/decode-ways/discuss/30357/DP-Solution-(Java)-for-reference)  
 
-无官方题解，网友高票Java答案2：  
+无官方题解，网友高票Java解法2：  
 
 [https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation](https://leetcode.com/problems/decode-ways/discuss/30358/Java-clean-DP-solution-with-explanation)  
 
@@ -1887,7 +1887,7 @@
 
 [https://leetcode-cn.com/problems/burst-balloons/](https://leetcode-cn.com/problems/burst-balloons/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations](https://leetcode.com/problems/burst-balloons/discuss/76228/Share-some-analysis-and-explanations)  
 
@@ -1903,7 +1903,7 @@
 
 [https://leetcode-cn.com/problems/edit-distance/](https://leetcode-cn.com/problems/edit-distance/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/edit-distance/discuss/25849/Java-DP-solution-O(nm)](https://leetcode.com/problems/edit-distance/discuss/25849/Java-DP-solution-O(nm))  
 
@@ -1935,7 +1935,7 @@
 
 [https://leetcode-cn.com/problems/distinct-subsequences/](https://leetcode-cn.com/problems/distinct-subsequences/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/distinct-subsequences/discuss/37327/Easy-to-understand-DP-in-Java](https://leetcode.com/problems/distinct-subsequences/discuss/37327/Easy-to-understand-DP-in-Java)  
 
@@ -1983,7 +1983,7 @@
 
 [https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/discuss/226721/Java-DP-O(3-*-216-*-n)-time-O(216)-space](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/discuss/226721/Java-DP-O(3-*-216-*-n)-time-O(216)-space)  
 
@@ -1999,7 +1999,7 @@
 
 [https://leetcode-cn.com/problems/remove-boxes/](https://leetcode-cn.com/problems/remove-boxes/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/remove-boxes/discuss/101310/Java-top-down-and-bottom-up-DP-solutions](https://leetcode.com/problems/remove-boxes/discuss/101310/Java-top-down-and-bottom-up-DP-solutions)  
 
@@ -2015,7 +2015,7 @@
 
 [https://leetcode-cn.com/problems/maximal-rectangle/](https://leetcode-cn.com/problems/maximal-rectangle/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/maximal-rectangle/discuss/29054/Share-my-DP-solution](https://leetcode.com/problems/maximal-rectangle/discuss/29054/Share-my-DP-solution)  
 
@@ -2128,7 +2128,7 @@
 
 [https://leetcode-cn.com/problems/frog-jump/](https://leetcode-cn.com/problems/frog-jump/)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
 
@@ -2145,7 +2145,7 @@
 
 [https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution](https://leetcode.com/problems/create-maximum-number/discuss/77285/Share-my-greedy-solution)  
 
-无官方题解，网友高票Java答案：  
+无官方题解，网友高票Java解法：  
 
 [https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations](https://leetcode.com/problems/frog-jump/discuss/88824/Very-easy-to-understand-JAVA-solution-with-explanations)  
 
