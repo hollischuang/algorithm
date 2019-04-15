@@ -2,7 +2,7 @@
 ---  
 [https://leetcode-cn.com/problems/different-ways-to-add-parentheses/](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)  
 
-* 网友高票Java答案：  
+* 网友高票Java解法：  
 
 ```java  
     /**
@@ -69,5 +69,5 @@
 
 **参考资料**  
 
-* 网友高票Java答案：  
+* 网友高票Java解法：  
 [https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/66328/A-recursive-Java-solution-(284-ms)](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/66328/A-recursive-Java-solution-(284-ms))  

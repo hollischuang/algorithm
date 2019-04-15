@@ -2,7 +2,7 @@
 ---
 [https://leetcode-cn.com/problems/intersection-of-two-linked-lists/](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  
 
-* 网友高票java答案  
+* 网友高票Java解法  
 
 ```java  
 
@@ -75,5 +75,5 @@ while循环最差情况是完整遍历两个链表，
 * 官方题解3：双指针法  
 [https://leetcode.com/articles/intersection-of-two-linked-lists/](https://leetcode.com/articles/intersection-of-two-linked-lists/)  
 
-* 网友高票Java答案：  
+* 网友高票Java解法：  
 [https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49785/Java-solution-without-knowing-the-difference-in-len!](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49785/Java-solution-without-knowing-the-difference-in-len!)  
