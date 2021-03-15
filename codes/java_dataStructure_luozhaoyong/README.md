@@ -1,51 +1,6 @@
-# 算法学习  
-
-* 这个专栏是Hollis知识星球的朋友们练习算法的地方  
-* 欢迎广大网友参与分享算法学习经验  
-* 项目目前分为两部分  
-	* solutions 目录  
-		* 算法题解，格式是 md 格式文件，方便阅读  
-		* 包括  
-			* 算法平台的题解，如 Leetcode 等  
-			* 算法书籍的题解，如 《剑指 Offer》  
-	* codes 目录：  
-		* 数据结构和算法的实现代码  
-		* 包括  
-			* 各类网络公开课的代码  
-			* 各类算法书籍的代码  
-* 备注  
-	* 本项目选取的资源都来自官方公开免费资源  
-	* 本项目所有内容不做商业用途  
-	* 本项目大部分代码由贡献者自己编写，如有引用则注明出处  
-
-# 学习方式   
-
-## 1. 面试刷题  
->适合短期面试突击或日常刷题练手  
-
-* LeetCode：https://leetcode-cn.com/problemset/all  
-* 牛客网：https://www.nowcoder.com  
-
-## 2. 基础知识  
-> 适合从零开始真正学习和掌握数据结构和算法知识  
-
-### 网络公开课  
-#### 1) 数据结构与算法基础-java版（罗召勇）  
-* 访问地址：  
-	https://www.bilibili.com/video/BV1Zt411o7Rn  
-
-#### 2) 尚硅谷Java数据结构与java算法（Java数据结构与算法）  
-* 访问地址  
-	https://www.bilibili.com/video/BV1E4411H73v  
-	
-# 笔记  
-
-# 一、数据结构与算法基础-java版（罗召勇）  
 >本课程为 DT 课堂颜群发布在 Bilibili 上的免费视频  
 《数据结构与算法基础-java版（罗召勇）》  
 https://www.bilibili.com/video/BV1Zt411o7Rn
-* 本项目中实现代码：  
-	codes/java_dataStructure_luozhaoyong 
 
 # 1. 数据结构概述
 
